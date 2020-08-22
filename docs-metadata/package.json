@@ -84,7 +84,7 @@
 		"@types/yauzl": "^2.9.1",
 		"file-system": "^2.2.2",
 		"http-proxy-agent": "^2.1.0",
-		"https-proxy-agent": "^2.2.1",
+		"https-proxy-agent": "^2.2.3",
 		"mkdirp": "^0.5.1",
 		"moment": "^2.24.0",
 		"tmp": "^0.1.0",
